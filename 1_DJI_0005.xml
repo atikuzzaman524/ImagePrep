@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Inspire2</folder>
+  <filename>DJI_0005</filename>
+  <path>F:\11292017_AmerenProblems\Inspire2\DJI_0005.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>5280</width>
+    <height>3956</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2963</xmin>
+      <ymin>1</ymin>
+      <xmax>3534</xmax>
+      <ymax>3373</ymax>
+    </bndbox>
+  </object>
+</annotation>
